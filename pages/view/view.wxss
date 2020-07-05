@@ -1,0 +1,22 @@
+/* pages/view/view.wxss */
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.hover-box1 {
+  background-color: royalblue;
+  color: #fff;
+  font-size: 30px;
+}
+
+.fatherbox {
+  width: 200px;
+  height: 200px;
+  background-color: seagreen;
+}
+
+.father-hover {
+  background-color: sienna;
+}
