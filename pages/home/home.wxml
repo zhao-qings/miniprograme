@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+<text>我是home页面</text>
+
+<button open-type="getUserInfo" bindgetuserinfo="getUserInfoHandle">授权</button>
+
+<open-data type="userNickName"></open-data>
+<open-data type="userAvatarUrl"></open-data>
+<open-data type="groupName" open-gid=""></open-data>
